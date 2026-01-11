@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDataTerlambat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPengembalianBuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FromPinjambuku.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

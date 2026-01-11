@@ -1,0 +1,34 @@
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.vbproj.AssemblyReference.cache
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FormLogin.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.vbproj.GenerateResource.cache
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.AssemblyInfoInputs.cache
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.AssemblyInfo.vb
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.vbproj.CoreCompileInputs.cache
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\PerpustakaanVB.exe
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\PerpustakaanVB.deps.json
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\PerpustakaanVB.runtimeconfig.json
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\PerpustakaanVB.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\PerpustakaanVB.pdb
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\Guna.UI2.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\MySqlConnector.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\System.Management.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\Perpusta.2219EA02.Up2Date
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\refint\PerpustakaanVB.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.pdb
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.genruntimeconfig.cache
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\ref\PerpustakaanVB.dll
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.Resources.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FormDashboard.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FormBuku.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FromPinjambuku.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FormPengembalianBuku.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FormDataTerlambat.resources
+C:\Users\Pongo\Documents\Visual Studio 2022\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.FormRegister.resources
+C:\Users\lenov\source\repos\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.dll
+C:\Users\lenov\source\repos\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\refint\PerpustakaanVB.dll
+C:\Users\lenov\source\repos\PerpustakaanVB\PerpustakaanVB\obj\Debug\net9.0-windows\PerpustakaanVB.pdb
